@@ -6,4 +6,4 @@
 
 ### 1. Requisitos Previos
 ```bash
-pip install pandas numpy scikit-learn mlflow matplotlib seaborn
+pip install pandas numpy scikit-learn mlflow matplotlib seaborn scipy

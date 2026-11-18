@@ -1,0 +1,33 @@
+consulta_texto,categoria,texto_limpio,categoria_id
+¿Dónde está mi paquete? Lo pedí hace 5 días y no llega.,Pedidos y Envíos,donde esta mi paquete lo pedi hace dias y no llega,3
+Necesito cambiar la dirección de entrega de mi orden #4589.,Pedidos y Envíos,necesito cambiar la direccion de entrega de mi orden,3
+¿Cuánto tarda el envío exprés a Ciudad de México?,Pedidos y Envíos,cuanto tarda el envio expres a ciudad de mexico,3
+Mi número de guía aparece como entregado pero no recibí nada.,Pedidos y Envíos,mi numero de guia aparece como entregado pero no recibi nada,3
+¿Hacen envíos internacionales o solo dentro de la república?,Pedidos y Envíos,hacen envios internacionales o solo dentro de la republica,3
+Quiero rastrear mi compra realizada ayer por la noche.,Pedidos y Envíos,quiero rastrear mi compra realizada ayer por la noche,3
+¿Cuál es el costo de envío para compras mayores a $999?,Pedidos y Envíos,cual es el costo de envio para compras mayores a,3
+"El producto llegó roto, quiero solicitar mi reembolso.",Devoluciones y Reembolsos,el producto llego roto quiero solicitar mi reembolso,0
+¿Cuántos días tengo para devolver un artículo que no me gustó?,Devoluciones y Reembolsos,cuantos dias tengo para devolver un articulo que no me gusto,0
+"Ya envié el paquete de regreso, ¿cuándo se refleja el dinero?",Devoluciones y Reembolsos,ya envie el paquete de regreso cuando se refleja el dinero,0
+"Me enviaron un color equivocado, necesito hacer un cambio.",Devoluciones y Reembolsos,me enviaron un color equivocado necesito hacer un cambio,0
+¿Cómo genero la etiqueta de devolución gratuita?,Devoluciones y Reembolsos,como genero la etiqueta de devolucion gratuita,0
+Cancelé mi pedido hace 3 días y aún veo el cargo en mi tarjeta.,Devoluciones y Reembolsos,cancele mi pedido hace dias y aun veo el cargo en mi tarjeta,0
+"La talla no me quedó bien, ¿puedo cambiarla por otra?",Devoluciones y Reembolsos,la talla no me quedo bien puedo cambiarla por otra,0
+Quiero cancelar mi compra antes de que salga del almacén.,Devoluciones y Reembolsos,quiero cancelar mi compra antes de que salga del almacen,0
+¿De qué material están hechas las velas aromáticas de lavanda?,Información de Productos,de que material estan hechas las velas aromaticas de lavanda,2
+¿Cuándo volverán a tener stock del difusor lunar?,Información de Productos,cuando volveran a tener stock del difusor lunar,2
+¿Sus productos son libres de crueldad animal y veganos?,Información de Productos,sus productos son libres de crueldad animal y veganos,2
+¿Qué medidas tiene el tapete de meditación nocturna?,Información de Productos,que medidas tiene el tapete de meditacion nocturna,2
+¿Tienen disponible este set de té relajante para regalo?,Información de Productos,tienen disponible este set de te relajante para regalo,2
+¿Cuál es la duración aproximada del incienso de sándalo?,Información de Productos,cual es la duracion aproximada del incienso de sandalo,2
+Busco recomendaciones para mejorar el descanso nocturno.,Información de Productos,busco recomendaciones para mejorar el descanso nocturno,2
+¿Los aceites esenciales son 100% puros o vienen diluidos?,Información de Productos,los aceites esenciales son puros o vienen diluidos,2
+"Necesito factura fiscal de mi compra, ¿dónde ingreso mi RFC?",Facturación y Cuenta,necesito factura fiscal de mi compra donde ingreso mi rfc,1
+Olvidé mi contraseña y no me llega el correo de recuperación.,Facturación y Cuenta,olvide mi contrasena y no me llega el correo de recuperacion,1
+¿Qué métodos de pago aceptan en la tienda en línea?,Facturación y Cuenta,que metodos de pago aceptan en la tienda en linea,1
+Mi cupón de bienvenida del 10% marca error al aplicarlo.,Facturación y Cuenta,mi cupon de bienvenida del marca error al aplicarlo,1
+Quiero actualizar mi correo electrónico registrado en mi perfil.,Facturación y Cuenta,quiero actualizar mi correo electronico registrado en mi perfil,1
+El pago con tarjeta fue rechazado pero sí tengo saldo.,Facturación y Cuenta,el pago con tarjeta fue rechazado pero si tengo saldo,1
+¿Puedo pagar a meses sin intereses con tarjetas participantes?,Facturación y Cuenta,puedo pagar a meses sin intereses con tarjetas participantes,1
+No encuentro mi historial de pedidos dentro de mi cuenta.,Facturación y Cuenta,no encuentro mi historial de pedidos dentro de mi cuenta,1
+"El repartidor no encontró mi domicilio hoy, ¿cuándo vuelve?",Pedidos y Envíos,el repartidor no encontro mi domicilio hoy cuando vuelve,3
